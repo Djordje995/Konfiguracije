@@ -102,7 +102,7 @@ Realtek RTL8125B 2.5Gb Ethernet |
 
 ---
 
-## 📊 Gigat<kOrigin>ro<kOrigin>
+## 📊 [Gigatron]
 
 **Ukupna cena (bez popusta):** 55.615,10 RSD  
 **Ukupna ušteda:** 6.620,00 RSD  
