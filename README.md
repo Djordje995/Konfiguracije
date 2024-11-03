@@ -135,4 +135,3 @@
 
 ---
 
-Ovaj README pruža sveobuhvatan pregled konfiguracije računara sa specifikacijama, cenama i vizuelnim bedževima koji poboljšavaju izgled dokumenta.
