@@ -52,4 +52,7 @@
 - 5 x Audio jacks
 - 1 x BIOS FlashBack Button
 
+## Više informacija
+
+- [ASUS zvanična stranica](https://www.asus.com/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS/)
 
