@@ -1,6 +1,7 @@
 # Konfiguracija Računara - Kompletan Pregled 💻
 
 ---
+
 ![Verzija](https://img.shields.io/badge/verzija-1.0.0-blue)
 ![Makefile](https://img.shields.io/badge/Makefile-dostupan-brightgreen)
 ![Licenca](https://img.shields.io/badge/licenca-None-lightgray)
@@ -13,14 +14,15 @@
 
 - [Pregled Konfiguracije](#pregled-konfiguracije)
 - [Detaljne Specifikacije Komponenti](#detaljne-specifikacije-komponenti)
-  - [Procesor](#procesor---amd-ryzen-5-5500-36ghz-42ghz-)
-  - [Matična Ploča](#matična-ploča---asus-tuf-gaming-b550m-plus-)
-  - [RAM Memorija](#ram-memorija---corsair-vengeance-rgb-pro-16gb-ddr4-3200mhz-cl16-)
-  - [Kućište](#kućište---deepcool-matrexx-40-3fs-)
-  - [Napajanje](#napajanje---aerocool-vx-plus-800w-)
-- [Instalacija](#instalacija)
-- [License](#license)
+  - [Procesor](#1-procesor---amd-ryzen-5-5500-36ghz-42ghz)
+  - [Matična Ploča](#2-matična-ploča---asus-tuf-gaming-b550m-plus)
+  - [RAM Memorija](#3-ram-memorija---corsair-vengeance-rgb-pro-16gb-ddr4-3200mhz-cl16)
+  - [Kućište](#4-kućište---deepcool-matrexx-40-3fs)
+  - [Napajanje](#5-napajanje---aerocool-vx-plus-800w)
+- [Cena i Popusti](#cena-i-popusti)
+- [Napomena o Licenci](#napomena-o-licenci)
 
+---
 
 ## 📋 Pregled Konfiguracije
 
@@ -68,10 +70,7 @@
 | **Broj PCIe slotova**               | 2                             |
 | **Broj M.2 slotova**                | 2                             |
 | **Broj SATA portova**               | 4                             |
-| **Mrežna karta**             
-
-
-Realtek RTL8125B 2.5Gb Ethernet |
+| **Mrežna karta**                    | Realtek RTL8125B 2.5Gb Ethernet |
 | **Zvučna karta**                    | Realtek S1200A 7.1 Surround Sound |
 
 ---
@@ -122,11 +121,18 @@ Realtek RTL8125B 2.5Gb Ethernet |
 
 ---
 
-## 📊 [Gigatron](https://gigatron.rs)
+## Cena i Popusti 💸
 
-**Ukupna cena (bez popusta):** 55.615,10 RSD  
-**Ukupna ušteda:** 6.620,00 RSD  
-**Ukupna cena (sa popustima):** 48.995,10 RSD  
+- **Ukupna cena (bez popusta):** 55.615,10 RSD  
+- **Ukupna cena (sa popustima):** 48.995,10 RSD  
+- **Ukupna ušteda:** 6.620,00 RSD  
 
 ---
 
+## Napomena o Licenci
+
+**Ovaj projekat nema licencu (None)**. 
+
+---
+
+Ovaj README pruža sveobuhvatan pregled konfiguracije računara sa specifikacijama, cenama i vizuelnim bedževima koji poboljšavaju izgled dokumenta.
