@@ -1,7 +1,7 @@
 # Konfiguracije
 Nikola GAMMING
 
-# Komponente Računara
+# Komponente 
 
 
 ## Komponente
