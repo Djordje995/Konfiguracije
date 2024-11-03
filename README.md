@@ -48,12 +48,15 @@
 | **Broj PCIe slotova**               | 2                             |
 | **Broj M.2 slotova**                | 2                             |
 | **Broj SATA portova**               | 4                             |
-| **Mrežna karta**                    | Realtek RTL8125B 2.5Gb Ethernet |
+| **Mrežna karta**             
+
+
+Realtek RTL8125B 2.5Gb Ethernet |
 | **Zvučna karta**                    | Realtek S1200A 7.1 Surround Sound |
 
 ---
 
-### 3. RAM Memorija - Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 🌈
+#xxxxxxxxxx## 3. RAM Memorija - Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 🌈
 
 | Specifikacija                       | Detalji                       |
 |-------------------------------------|-------------------------------|
@@ -99,7 +102,7 @@
 
 ---
 
-## 📊 Rezime i Ukupna Ušteda
+## 📊 Gigat<kOrigin>ro<kOrigin>
 
 **Ukupna cena (bez popusta):** 55.615,10 RSD  
 **Ukupna ušteda:** 6.620,00 RSD  
