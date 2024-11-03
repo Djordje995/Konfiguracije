@@ -56,7 +56,7 @@ Realtek RTL8125B 2.5Gb Ethernet |
 
 ---
 
-#xxxxxxxxxx## 3. RAM Memorija - Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 🌈
+### 3. RAM Memorija - Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 🌈
 
 | Specifikacija                       | Detalji                       |
 |-------------------------------------|-------------------------------|
