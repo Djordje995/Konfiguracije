@@ -1,6 +1,5 @@
 # # Komponente Računara 💻
 
-Dobrodošli u repozitorijum sa detaljnim informacijama o ključnim komponentama za sastavljanje ili unapređenje računara. Ovaj repozitorijum obuhvata različite komponente, uključujući procesore, matične ploče, RAM memoriju, kućišta i napajanje, organizovane za lak pregled i upotrebu.
 
 ---
 
