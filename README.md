@@ -19,7 +19,6 @@
   - [RAM Memorija](#3-ram-memorija---corsair-vengeance-rgb-pro-16gb-ddr4-3200mhz-cl16)
   - [Kućište](#4-kućište---deepcool-matrexx-40-3fs)
   - [Napajanje](#5-napajanje---aerocool-vx-plus-800w)
-- [Cena i Popusti](#cena-i-popusti)
 - [Napomena o Licenci](#napomena-o-licenci)
 
 ---
@@ -34,8 +33,7 @@
 | **Kućište**        | DEEPCOOL MATREXX 40 3FS               | 4.999,00 RSD   | 
 | **Napajanje**      | AEROCOOL VX PLUS 800W                 | 7.999,00 RSD   | 
 
-**Ukupna cena sa popustima:** 48.995,10 RSD  
-**Ukupna ušteda:** 6.620,00 RSD
+**Ukupna cena:** 48.995,10 RSD  
 
 ---
 
@@ -125,7 +123,6 @@
 
 - **Ukupna cena (bez popusta):** 55.615,10 RSD  
 - **Ukupna cena (sa popustima):** 48.995,10 RSD  
-- **Ukupna ušteda:** 6.620,00 RSD  
 
 ---
 
