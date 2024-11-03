@@ -3,7 +3,7 @@
 ---
 ![Verzija](https://img.shields.io/badge/verzija-1.0.0-blue)
 ![Makefile](https://img.shields.io/badge/Makefile-dostupan-brightgreen)
-![Licenca](https://img.shields.io/badge/licenca-MIT-yellow)
+![Licenca](https://img.shields.io/badge/licenca-None-lightgray)
 ![Status](https://img.shields.io/badge/status-aktivno-success)
 ![Podržani jezici](https://img.shields.io/badge/jezici-bash%20%7C%20markdown-blue)
 
