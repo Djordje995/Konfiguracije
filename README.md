@@ -88,7 +88,7 @@ Realtek RTL8125B 2.5Gb Ethernet |
 
 ---
 
-### 5. Napajanje - AEROCOOL VX PLUS 800W 🔋
+### 5. [Napajanje - AEROCOOL VX PLUS 800W](https://gigatron.rs/napajanja/aerocool-vx-plus-800-napajanje-636839) 🔋
 
 | Specifikacija                       | Detalji                       |
 |-------------------------------------|-------------------------------|
