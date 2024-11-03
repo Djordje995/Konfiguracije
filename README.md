@@ -19,7 +19,7 @@
 
 ## 🔍 Detaljne Specifikacije Komponenti
 
-### 1. Procesor - AMD Ryzen 5 5500 3.6GHz (4.2GHz) 🚀
+### 1. [Procesor - AMD Ryzen 5 5500 3.6GHz (4.2GHz)](https://gigatron.rs/procesori/amd-ryzen-5-5500-36ghz-42ghz-474434) 🚀
 
 | Specifikacija                       | Detalji                       |
 |-------------------------------------|-------------------------------|
@@ -35,7 +35,7 @@
 
 ---
 
-### 2. Matična ploča - ASUS TUF GAMING B550M-PLUS 🖥️
+### 2. [Matična ploča - ASUS TUF GAMING B550M-PLUS](https://gigatron.rs/maticne-ploce/asus-tuf-gaming-b550mplus-365334) 🖥️
 
 | Specifikacija                       | Detalji                       |
 |-------------------------------------|-------------------------------|
@@ -56,7 +56,7 @@ Realtek RTL8125B 2.5Gb Ethernet |
 
 ---
 
-### 3. RAM Memorija - Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 🌈
+### 3. [RAM Memorija - Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16](https://gigatron.rs/memorije/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-dram-3200mhz-c16-cmw16gx4m2c3200c16-373079) 🌈
 
 | Specifikacija                       | Detalji                       |
 |-------------------------------------|-------------------------------|
@@ -70,7 +70,7 @@ Realtek RTL8125B 2.5Gb Ethernet |
 
 ---
 
-### 4. Kućište - DEEPCOOL MATREXX 40 3FS 🖥️
+### 4. [Kućište - DEEPCOOL MATREXX 40 3FS](https://gigatron.rs/kucista/deepcool-matrexx-40-3fs-kuciste-486854) 🖥️
 
 | Specifikacija                         | Detalji                       |
 |---------------------------------------|-------------------------------|
