@@ -3,17 +3,15 @@
 ![AEROCOOL VX PLUS 800](link_do_slike.jpg) <!-- Dodaj sliku proizvoda ovde ako je dostupna -->
 
 **Proizvođač:** Aerocool  
-**Kategorija proizvoda:** Računari i komponente  
 
 ---
 
 ## 🏷️ Cena
 
-| MP Cena        | Cena          | Ušteda       |
-|----------------|---------------|--------------|
-| 8.889,00 RSD   | 7.999,00 RSD  | 890,00 RSD   |
+| MP Cena        | Cena          |
+|----------------|---------------|
+| 8.889,00 RSD   | 7.999,00 RSD  |
 
-*Napomena: Cena uključuje popust za gotovinsko plaćanje i online kupovinu.*
 
 ---
 
@@ -82,5 +80,4 @@ AEROCOOL VX PLUS 800 napajanje dolazi sa sledećim zaštitama:
 
 ---
 
-> **Napomena:** Sve cene na ovom sajtu iskazane su u dinarima. PDV je uračunat u cenu. Trudimo se da prikazani podaci budu tačni, ali ne garantujemo za tačnost informacija.
 
