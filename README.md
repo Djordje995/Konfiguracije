@@ -8,6 +8,20 @@
 ![Podržani jezici](https://img.shields.io/badge/jezici-bash%20%7C%20markdown-blue)
 
 ---
+
+## 📑 Sadržaj
+
+- [Pregled Konfiguracije](#pregled-konfiguracije)
+- [Detaljne Specifikacije Komponenti](#detaljne-specifikacije-komponenti)
+  - [Procesor](#procesor---amd-ryzen-5-5500-36ghz-42ghz-)
+  - [Matična Ploča](#matična-ploča---asus-tuf-gaming-b550m-plus-)
+  - [RAM Memorija](#ram-memorija---corsair-vengeance-rgb-pro-16gb-ddr4-3200mhz-cl16-)
+  - [Kućište](#kućište---deepcool-matrexx-40-3fs-)
+  - [Napajanje](#napajanje---aerocool-vx-plus-800w-)
+- [Instalacija](#instalacija)
+- [License](#license)
+
+
 ## 📋 Pregled Konfiguracije
 
 | Komponenta         | Model                                 | Cena           |
