@@ -1,18 +1,16 @@
 # Konfiguracija Računara - Kompletan Pregled 💻
 
-Ovaj repozitorijum sadrži detaljan opis svih komponenti koje čine ovu konfiguraciju računara. U nastavku su navedene ključne specifikacije za svaku komponentu, kao i cene i popusti. 
-
 ---
 
 ## 📋 Pregled Konfiguracije
 
-| Komponenta         | Model                                 | Cena           | Ušteda           |
-|--------------------|---------------------------------------|----------------|-------------------|
-| **Procesor**       | AMD Ryzen 5 5500 3.6GHz (4.2GHz)      | 12.999,00 RSD  | 1.500,00 RSD      |
-| **Matična ploča**  | ASUS TUF GAMING B550M-PLUS            | 14.999,00 RSD  | 1.670,00 RSD      |
-| **RAM Memorija**   | Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 | 7.999,00 RSD   | 890,00 RSD       |
-| **Kućište**        | DEEPCOOL MATREXX 40 3FS               | 4.999,00 RSD   | 1.670,00 RSD      |
-| **Napajanje**      | AEROCOOL VX PLUS 800W                 | 7.999,00 RSD   | 890,00 RSD        |
+| Komponenta         | Model                                 | Cena           |
+|--------------------|---------------------------------------|----------------|
+| **Procesor**       | AMD Ryzen 5 5500 3.6GHz (4.2GHz)      | 12.999,00 RSD  |
+| **Matična ploča**  | ASUS TUF GAMING B550M-PLUS            | 14.999,00 RSD  |
+| **RAM Memorija**   | Corsair Vengeance RGB Pro 16GB DDR4 3200MHz CL16 | 7.999,00 RSD |
+| **Kućište**        | DEEPCOOL MATREXX 40 3FS               | 4.999,00 RSD   | 
+| **Napajanje**      | AEROCOOL VX PLUS 800W                 | 7.999,00 RSD   | 
 
 **Ukupna cena sa popustima:** 48.995,10 RSD  
 **Ukupna ušteda:** 6.620,00 RSD
@@ -104,14 +102,8 @@ Ovaj repozitorijum sadrži detaljan opis svih komponenti koje čine ovu konfigur
 ## 📊 Rezime i Ukupna Ušteda
 
 **Ukupna cena (bez popusta):** 55.615,10 RSD  
-**Ukupna cena (sa popustima):** 48.995,10 RSD  
 **Ukupna ušteda:** 6.620,00 RSD  
+**Ukupna cena (sa popustima):** 48.995,10 RSD  
 
 ---
-
-> **Napomena:** Sve cene na ovom sajtu iskazane su u dinarima. PDV je uračunat u cenu. Trudimo se da prikazani podaci budu tačni, ali ne garantujemo za tačnost informacija.
-
----
-
-Ovaj README fajl pruža kompletan pregled svih komponenti, sa detaljnim specifikacijama, cenama, uštedama, i ključnim karakteristikama, čime omogućava korisnicima da lako pregledaju celokupnu konfiguraciju. 
 
