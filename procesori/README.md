@@ -9,9 +9,9 @@
 
 ## 🏷️ Cena
 
-| MP Cena        | Cena          | Ušteda       |
-|----------------|---------------|--------------|
-| 14.499,00 RSD  | 12.999,00 RSD | 1.500,00 RSD |
+| MP Cena        | Cena          |
+|----------------|---------------|
+| 14.499,00 RSD  | 12.999,00 RSD |
 
 *Napomena: Cena uključuje popust za gotovinsko plaćanje i online kupovinu.*
 
