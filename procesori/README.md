@@ -65,11 +65,4 @@
 
 ---
 
-## 📜 EAN
-
-- **EAN kod:** 730143311421
-
----
-
-> **Napomena:** Sve cene na ovom sajtu iskazane su u dinarima. PDV je uračunat u cenu. Trudimo se da prikazani podaci budu tačni, ali ne garantujemo za tačnost informacija.
 
